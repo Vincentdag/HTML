@@ -1,0 +1,26 @@
+
+        body {
+            background-color: #f4e1d2;
+            font-family: "Times New Roman", serif;
+            text-align: center;
+        }
+        header {
+            background-color: #c0392b;
+            color: white;
+            padding: 20px;
+            font-size: 26px;
+        }
+        .content {
+            margin: 20px auto;
+            width: 80%;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .content img {
+            width: 80%;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+    
